@@ -1,13 +1,10 @@
-Absolutely! Here's your **complete, clean, and polished `README.md`** file for **VidAI**, ready to copy-paste:
 
----
 
-```markdown
+
 # VidAI 🎥📄🧠
 
 **VidAI** is an AI-powered web app that allows users to **summarize**, **analyze sentiment of comments**, and **ask questions** about any YouTube video. It leverages **free**, high-performance **open-source models** to offer a powerful yet cost-effective GenAI experience — no OpenAI API required!
 
----
 
 ## 🌟 Features
 
@@ -17,7 +14,7 @@ Absolutely! Here's your **complete, clean, and polished `README.md`** file for *
 - 🧠 **Streamlit-based Web UI** for a clean and interactive experience
 - 🔓 **No paid APIs** – Fully open-source and local inference
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -29,7 +26,7 @@ Absolutely! Here's your **complete, clean, and polished `README.md`** file for *
 | **Data Source** | `youtube-transcript-api`, `yt-dlp`, `requests`       |
 | **TTS (Optional)** | `pyttsx3` or any other TTS lib (optional)         |
 
----
+
 
 ## 📦 Installation
 
@@ -108,5 +105,4 @@ VidAI/
 ---
 
 > ⭐ Star this repo if you like it. Contributions are welcome!
-```
 
